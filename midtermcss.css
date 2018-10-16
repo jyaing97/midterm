@@ -70,6 +70,7 @@ h2{
 	color:Salmon;
 	font-family: 'Indie Flower', cursive;
 	margin-top: 5px;
+	padding: 0px;
 }
 
 h3{
@@ -78,6 +79,7 @@ h3{
 	font-size:35px;
 	color:Salmon;
 	font-family: 'Indie Flower', cursive;
+	padding: 0px;
 }
 .container { 
 	width: 375px;
