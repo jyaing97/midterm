@@ -11,7 +11,8 @@ h1{
 	font-family: 'Indie Flower', cursive;
 	text-align: left;
 	width: 1000px;
-	padding: 20px;
+	padding: 30px;
+	margin-bottom:30px;
 	
 }
 
@@ -70,7 +71,7 @@ h2{
 	color:Salmon;
 	font-family: 'Indie Flower', cursive;
 	padding: 5px 5px 5px 5px; 
-	margin-right: 20px;
+	margin-left: 20px;
 	margin-bottom: 10px;
 	
 }
@@ -84,6 +85,6 @@ h2{
 	margin: 0 auto;
 	list-style-type: none;
 	text-align: left;
-	margin-right: 20px;
+	margin-left: 20px;
 
 }
