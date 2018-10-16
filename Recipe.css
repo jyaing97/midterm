@@ -11,7 +11,7 @@ h1{
 	font-family: 'Indie Flower', cursive;
 	text-align: left;
 	width: 250px;
-	padding: 5px 5px 5px 5px;
+	padding: 0px;
 }
 
 .nav{
@@ -64,7 +64,7 @@ ul:link, ul:visited {
 
 h2{
 	text-underline-position: center;
-	text-align: center;
+	text-align: left;
 	font-size:35px;
 	color:Salmon;
 	font-family: 'Indie Flower', cursive;
