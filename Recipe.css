@@ -69,8 +69,7 @@ h2{
 	text-align: left;
 	font-size:35px;
 	color:Salmon;
-	font-family: 'Indie Flower', cursive;
-	padding: 20px; 
+	font-family: 'Indie Flower', cursive; 
 	margin-left: 20px;
 	margin-bottom: 10px;
 	
@@ -86,6 +85,5 @@ h2{
 	list-style-type: none;
 	text-align: left;
 	margin-left: 20px;
-	Padding:20px;
 
 }
