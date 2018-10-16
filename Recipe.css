@@ -63,7 +63,7 @@ ul:link, ul:visited {
 }
 
 h2{
-	text-underline-position: center;
+	text-underline-position: left;
 	text-align: left;
 	font-size:35px;
 	color:Salmon;
