@@ -12,6 +12,7 @@ h1{
 	text-align: center;
 	width: 1000px;
 	padding: 0px;
+	margin: 0px;
 }
 
 .nav{
@@ -69,7 +70,7 @@ h2{
 	color:Salmon;
 	font-family: 'Indie Flower', cursive;
 	padding: 5px 5px 5px 5px; 
-	margin-left: 1000px;
+	margin-left: 300px;
 }
 .container { 
 	width: 375px;
