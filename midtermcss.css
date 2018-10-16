@@ -12,7 +12,7 @@ h1{
 	text-align: left;
 	width: 1000px;
 	padding: 0px;
-	margin: 0px;
+	margin-bottom: 10px;
 }
 
 .nav{
@@ -70,7 +70,7 @@ h2{
 	color:Salmon;
 	font-family: 'Indie Flower', cursive;
 	margin-top: 5px;
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 	padding: 0px;
 }
 
