@@ -65,12 +65,12 @@ ul:link, ul:visited {
 
 h2{
 	text-underline-position: left;
-	text-align: left;
+	text-align: center;
 	font-size:35px;
 	color:Salmon;
 	font-family: 'Indie Flower', cursive;
 	padding: 5px 5px 5px 5px; 
-	margin-left: 300px;
+	
 }
 .container { 
 	width: 375px;
